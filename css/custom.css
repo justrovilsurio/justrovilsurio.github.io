@@ -117,11 +117,18 @@ a:hover {
     font-size: 0.9375em;
     color: #8c8c8c; }
 
-.info .info-list {
+.education .education-list {
   margin-left: 0px; }
-  .info .info-list li:first-child {
+  .education .education li:first-child {
     font-size: 0.9375em;
     color: #8c8c8c; }
+
+.projects .projects-list {
+  margin-left: 0px; }
+  .projects .projects li:first-child {
+    font-size: 0.9375em;
+    color: #8c8c8c; }
+
 
 .skills .skill-list {
   margin-left: 0px; }
